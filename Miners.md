@@ -6,3 +6,9 @@
 
 # Tier 3 Miner _Plasma Drill_
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Industry/DrillT3.png?raw=true)
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
