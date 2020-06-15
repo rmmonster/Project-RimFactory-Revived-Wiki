@@ -1,5 +1,3 @@
--Augmented Turtle Squad // Team ATS
+_-Augmented Turtle Squad // Team ATS_\n
 [![](https://imgur.com/x9KVZun.png)](https://discord.gg/QBr7Wby)
-
-
-[url=https://discord.gg/QBr7Wby][img]https://imgur.com/x9KVZun.png[/img][/url]Feel free to join our discord
+Feel free to join our discord
