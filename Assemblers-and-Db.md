@@ -1,6 +1,7 @@
 ### Assembler
-<img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" />
-  
+|   | Resource Cost | Health | Size | Description |
+| - | ------------- | ------ | ---- | ----------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" /> | 2x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrame.png" width="16" /><br />120x <img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /><br />10x <img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /> | 250HP | 3x3 | Downloads recipes from an adjacent recipe database. |  
   
 ### Adaptive Assembler
 |   | Resource Cost | Health | Size | Description |
