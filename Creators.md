@@ -23,6 +23,7 @@ so on this page i try to list them all and thank them for their work.
 * [Nobo](https://github.com/nullre)
 * [Abnerchen](https://github.com/cwc02777)
 * [@LWM](https://github.com/lilwhitemouse)
+* [Madara Uchiha](https://github.com/MadaraUchiha)
 
 ## Testers and general help
 * [@Thornsworth](https://github.com/steague)
