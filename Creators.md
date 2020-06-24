@@ -20,8 +20,8 @@ so on this page i try to list them all and thank them for their work.
 
 ## Coders
 * [@spdskatr](https://github.com/spdskatr)
-* Nobo
-* Abnerchen
+* [Nobo](https://github.com/nullre)
+* [Abnerchen](https://github.com/cwc02777)
 * [@LWM](https://github.com/lilwhitemouse)
 
 ## Testers and general help
