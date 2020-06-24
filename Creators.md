@@ -4,9 +4,9 @@ PRF are a collaboration of alot of skilled peoples good work.
 so on this page i try to list them all and thank them for their work.
 
 # Active now working on this mod
-* zymex
-* LWM
-* Thornsworth
+* [@zymex](https://github.com/zymex22)
+* [@LWM](https://github.com/lilwhitemouse)
+* [@Thornsworth](https://github.com/steague)
 
 ## Artists
 * Shotgunfrenzy
@@ -15,19 +15,18 @@ so on this page i try to list them all and thank them for their work.
 * Scythe
 * totobrother
 * "unknown alien"
-* Spdskatr
-* zymex
+* [@spdskatr](https://github.com/spdskatr)
+* [@zymex](https://github.com/zymex22)
 
 ## Coders
-* Spdskatr
+* [@spdskatr](https://github.com/spdskatr)
 * Nobo
 * Abnerchen
-* LWM
+* [@LWM](https://github.com/lilwhitemouse)
 
 ## Testers and general help
-* Thornsworth
+* [@Thornsworth](https://github.com/steague)
 * Malkav
-* 
 
 ## Translaters
 * Russian: Natsu_Zirok
