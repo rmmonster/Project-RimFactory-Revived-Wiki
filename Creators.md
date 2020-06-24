@@ -19,7 +19,7 @@ so on this page i try to list them all and thank them for their work.
 * [zymex](https://github.com/zymex22)
 
 ## Coders
-* [@spdskatr](https://github.com/spdskatr)
+* [spdskatr](https://github.com/spdskatr)
 * [Nobo](https://github.com/nullre)
 * [Abnerchen](https://github.com/cwc02777)
 * [LWM](https://github.com/lilwhitemouse)
