@@ -4,9 +4,11 @@ Mining random ores after placed and powered, it will have a chance of getting in
 
 This version will mine steel slag instead of raw steel.
   
+  
 # Tier 2 Miner _Pulse Drill_
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Industry/DeepQuarry.png?raw=true)  
 This is same as above version just faster between mines, less chance to get stone chunks, and mine Raw steel instead of slag.
+  
   
 # Tier 3 Miner _Plasma Drill_
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Industry/DrillT3.png?raw=true)  
