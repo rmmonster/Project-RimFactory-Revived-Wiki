@@ -10,6 +10,8 @@
 | - | ------------- | ------ | ---- | ----------- |
 | <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/correcting_assembler.png?raw=true" width="96" /> | 2x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/WeakAICore.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrameLarge.png" width="16" /><br />10x <img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /><br />150x <img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /><br />2x <img src="https://rimworldwiki.com/images/4/40/Component.png" width="16" /> | 350HP | 3x3 | Downloads recipes from an adjacent recipe database. |
 
+The Adaptive assembler starts producing items slowly and, as it produces the same item multiple times, it gains both speed and craftsmanship quality. Eventually, this building will be able to produce items at 500%+ speed and masterwork quality.
+
 ***
 
 ### Recipe Database
