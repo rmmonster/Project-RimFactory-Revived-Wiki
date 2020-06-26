@@ -31,3 +31,30 @@ So if you are, and wanna help feel free to contact me or make PR on Github with 
 Im getting help from LWM and Nobo sometimes.
 
 ![](https://imgur.com/mi4OYoT.png)
+## Kitchen
+- 2 Auto cooker
+- 1 Meat grinder
+- 1 Food prepper
+- 1 Auto Fermenting barrel
+## Resource gathering
+- 3 Miners / Deep drill
+## Farming and Animals
+- 4 Cultivators
+- 1 Sprinkler
+- 1 Animal manager
+- 3 Animal Harvesters (milk, egg, fur)
+## Automations
+1 Smart Hopper
+- 3 Item Pusher
+- 1 Fueling machine
+## Production
+- 2 Assemblers + 1 Recorder(copy bills)
+- 1 Recycler to apperal, weapons & armor
+## Storage management
+- 4 Storage crate
+- 1 Digital Storage Unit
+- 1 In/Out port Wireless Storage
+## Other
+- 6 new floors
+- 6 Floor sign
+- 2 Lamp
