@@ -38,7 +38,7 @@ changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedet
 - 3 Item Pusher
 - 1 Fueling machine
 ### Production
-- 2 Assemblers + 1 Recorder(copy bills)
+- [2 Assemblers + 1 Database](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Assemblers-and-Recipe-Database) 
 - 1 Recycler to apperal, weapons & armor
 ### Storage management
 - 4 Storage crate
