@@ -25,7 +25,7 @@ Meat grinder can butcher all creators into useful meat and secondary resources.
 it copies all recipes from vanilla butcher table.
 
 # Fermenting Tank
-![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/brewer.png?raw=true)
+![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/brewer.png?raw=true)  
 This tank work automatically and can input/output to make a production line.
 it uses power so optimal temperature isn't a issue here either.
 
