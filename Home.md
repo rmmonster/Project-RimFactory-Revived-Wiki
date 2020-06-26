@@ -40,6 +40,8 @@ changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedet
 ### Production
 - [2 Assemblers + 1 Database](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Assemblers-and-Recipe-Database) 
 - 1 Recycler to apperal, weapons & armor
+- 1 stonecutter + art machine
+- 1 Plasteel production building (balanced)
 ### Storage management
 - 4 Storage crate
 - 1 Digital Storage Unit
@@ -47,7 +49,8 @@ changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedet
 ### Other
 - 6 new floors
 - 6 Floor sign
-- 2 Lamp
+- 3 Lamp
+- 1 Scenario
 
 ![](https://imgur.com/vk7inFR.png)  
 This was my Favorite mod in B18 and B19 and there never really came a 1.0.
