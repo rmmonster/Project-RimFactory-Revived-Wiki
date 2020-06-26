@@ -21,7 +21,7 @@ but it can also make wort if none of above mods are installed.
 
 # Meat Grinder
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_butcher.png?raw=true)  
-Meat grinder can butcher all creators into useful meat and secondary resources.
+Meat grinder can butcher all creatures into useful meat and secondary resources.
 it copies all recipes from vanilla butcher table.
 
 # Fermenting Tank
