@@ -22,10 +22,10 @@ changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedet
 
 ![](https://imgur.com/mi4OYoT.png)
 ### Kitchen
-- 2 Auto cooker
-- 1 Meat grinder
-- 1 Food prepper
-- 1 Auto Fermenting barrel
+- [2 Auto cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
+- [1 Meat grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
+- [1 Food prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
+- [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
 ### Resource gathering
 - [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
 ### Farming and Animals
