@@ -29,3 +29,5 @@ I hope i can bring back Project RimFactory to a good state in 1.1
 Sadly im not a C# programmer, i can compile assemblies but it stops there.
 So if you are, and wanna help feel free to contact me or make PR on Github with fixes/updates.
 Im getting help from LWM and Nobo sometimes.
+
+![](https://imgur.com/mi4OYoT.png)
