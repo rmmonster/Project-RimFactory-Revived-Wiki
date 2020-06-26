@@ -15,14 +15,25 @@ Industrial cooker can cook ANY recipe from Vanilla stove (even modded) that requ
 This work same as above, only difference is its faster, and will never poison food and can cook any recipe up to level 20 cooking.
 
 # Industrial Food Processor
-![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_prepper.png?raw=true)
+![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_prepper.png?raw=true)  
+This was originally mad as mod support for VGP gourmet, rimcousine and now vanilla cooking expanded.
+but it can also make wort if none of above mods are installed.
 
 # Meat Grinder
-![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_butcher.png?raw=true)
+![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_butcher.png?raw=true)  
+Meat grinder can butcher all creators into useful meat and secondary resources.
+it copies all recipes from vanilla butcher table.
 
 # Fermenting Tank
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/brewer.png?raw=true)
+This tank work automatically and can input/output to make a production line.
+it uses power so optimal temperature isn't a issue here either.
+
+This will get more mods support later, its just need some work.
 
 
 # Mod support
+optimized for mods like vgp, vgp gourmet, rimcousine core, vanilla cooking expanded.
+it will also support any mod adding recipes to vanilla benches is these machines as much as possible will try to copy vanilla benches for maximum mod support right away.
 
+feel free to suggest more support.
