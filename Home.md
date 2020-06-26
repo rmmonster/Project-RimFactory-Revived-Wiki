@@ -18,7 +18,7 @@ and also got a texture overhaul (textures are done by a kind "unknown alien" on 
 And im very gratefull for that, as it leave more room for me to do other part of this and my other mods.
 He do it of free will and when inspired so thats why not every texture are done.
 
-
+changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033979700)
 
 ![](https://imgur.com/vk7inFR.png)  
 This was my Favorite mod in B18 and B19 and there never really came a 1.0.
