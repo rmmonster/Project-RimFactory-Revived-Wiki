@@ -37,7 +37,7 @@ Im getting help from LWM and Nobo sometimes.
 - 1 Food prepper
 - 1 Auto Fermenting barrel
 ### Resource gathering
-- 3 Miners / Deep drill
+- [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
 ### Farming and Animals
 - 4 Cultivators
 - 1 Sprinkler
