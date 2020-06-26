@@ -1,7 +1,7 @@
 # Project RimFactory Revived wiki
 ![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/About/Preview.png?raw=true)
 
-![](https://imgur.com/SgqQCgW.png)
+![](https://imgur.com/SgqQCgW.png)  
 This version is focused around B18 version wich was awesome version of PRF.
 I included storage againg and left insanity and drones out to match that.
 
