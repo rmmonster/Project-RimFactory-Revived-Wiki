@@ -20,16 +20,6 @@ He do it of free will and when inspired so thats why not every texture are done.
 
 changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033979700)
 
-![](https://imgur.com/vk7inFR.png)  
-This was my Favorite mod in B18 and B19 and there never really came a 1.0.
-Since Spdskatr have giving up on updating it, i thought i would give it a go to update it.
-I got Spdskatrs blessing to continue PRF, so hope i can honor it.
-
-I hope i can bring back Project RimFactory to a good state in 1.1
-Sadly im not a C# programmer, i can compile assemblies but it stops there.
-So if you are, and wanna help feel free to contact me or make PR on Github with fixes/updates.
-Im getting help from LWM and Nobo sometimes.
-
 ![](https://imgur.com/mi4OYoT.png)
 ### Kitchen
 - 2 Auto cooker
@@ -58,3 +48,13 @@ Im getting help from LWM and Nobo sometimes.
 - 6 new floors
 - 6 Floor sign
 - 2 Lamp
+
+![](https://imgur.com/vk7inFR.png)  
+This was my Favorite mod in B18 and B19 and there never really came a 1.0.
+Since Spdskatr have giving up on updating it, i thought i would give it a go to update it.
+I got Spdskatrs blessing to continue PRF, so hope i can honor it.
+
+I hope i can bring back Project RimFactory to a good state in 1.1
+Sadly im not a C# programmer, i can compile assemblies but it stops there.
+So if you are, and wanna help feel free to contact me or make PR on Github with fixes/updates.
+Im getting help from LWM and Nobo sometimes.
