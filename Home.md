@@ -15,10 +15,10 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 ## Contents
 
 ### Kitchen
-- [2 Auto cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
-- [1 Meat grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
-- [1 Food prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
-- [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
+- [2 Auto cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#tier-1-industrial-cooker)
+- [1 Food prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#industrial-food-processor)
+- [1 Meat grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#meat-grinder)
+- [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#fermenting-tank)
 
 ### Resource Gathering
 - [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
