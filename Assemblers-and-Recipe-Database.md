@@ -1,23 +1,26 @@
-### Assembler
-|   | Resource Cost | Health | Size | Description |
-| - | ------------- | ------ | ---- | ----------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" /> | 2x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrame.png" width="16" /><br />120x <img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /><br />10x <img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /> | 250HP | 3x3 | Downloads recipes from an adjacent recipe database. |  
+### Recipe Database
 
-***
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/DISK_HARDWARE4_north.png?raw=true" width="32" height="32" /> | 1x1 | 150HP | 250W | Magnetic Tape | 1x PRF Machine Frame<br />20x Steel<br />1x Component Industrial<br />1x Rim Factory Data Disk |
+
+The Portable Recipe Database can import recipes from nearby worktables. Afterwards, when reinstalled near assembler(s), it will upload its recipes to them.<br /><br />Blue cells are import range for the database.<br /><br />Uploaded recipes and bills will be lost if the database is moved or destroyed.<br /><br />I wonder what all these other buttons do...
+
+### Assembler
+
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 250HP | 625W | Universal Autocrafting | 2x PRF Robotic Arm<br />1x PRF Machine Frame<br />120x Steel<br />10x Plasteel |
+
+An automatic assembler controlled by a computer. Despite being called an assembler, it's also capable of simpler procedures such as cutting stone blocks, and refinery work.<br /><br />Downloads recipes from an adjacent recipe database.<br /><br />White cell is input range, Blue cell are db range, Yellow cell is output
 
 ### Adaptive Assembler
-|   | Resource Cost | Health | Size | Description |
-| - | ------------- | ------ | ---- | ----------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/correcting_assembler.png?raw=true" width="96" /> | 2x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/WeakAICore.png" width="16" /><br />1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrameLarge.png" width="16" /><br />10x <img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /><br />150x <img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /><br />2x <img src="https://rimworldwiki.com/images/4/40/Component.png" width="16" /> | 350HP | 3x3 | Downloads recipes from an adjacent recipe database. |
 
-The Adaptive assembler starts producing items slowly and, as it produces the same item multiple times, it gains both speed and craftsmanship quality. Eventually, this building will be able to produce items at 500%+ speed and masterwork quality.
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/correcting_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 350HP | 700W | Self Correcting Assemblers | 2x PRF Robotic Arm<br />1x PRF Weak AI Chip<br />1x PRF Machine Frame Large<br />10x Plasteel<br />150x Steel<br />2x Component Industrial |
 
-***
-
-### Recipe Database
-|   | Resource Cost | Health | Size | Description |
-| - | ------------- | ------ | ---- | ----------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/DISK_HARDWARE4_north.png?raw=true" width="32" /> | 1x <img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrame.png" width="16" /><br />20x <img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /><br />1x <img src="https://rimworldwiki.com/images/4/40/Component.png" width="16" /><br />1x <img src="https://raw.githubusercontent.com/zymex22/Project-RimFactory-Revived/master/Textures/SAL3/NewDisk.png" width="16" /> | 150HP | 1x1 | Imports redcipes from adjacent work tables. Uploads recipes to adjacent assemblers. |
+An automatic assembler controlled by a primitive AI.<br /><br />The simple artificial neural network enables it to learn; to be more precise and efficient at individual recipes. Slowly overwrites currently unused recipe algorithms, as it has limited processing and memory capacity.<br /><br />Downloads recipes from an adjacent recipe database.<br /><br />White cell is input range, Blue cell are db range, Yellow cell is output
 
 ***
 
