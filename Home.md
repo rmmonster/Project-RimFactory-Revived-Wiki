@@ -21,7 +21,7 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 - [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#fermenting-tank)
 
 ### Resource Gathering
-- [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
+- [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Industry)
 
 ### [Farming and Animals](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Farming-and-Animals)
 - 4 Cultivators
