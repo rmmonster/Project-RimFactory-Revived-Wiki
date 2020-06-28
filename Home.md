@@ -23,7 +23,7 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 ### Resource Gathering
 - [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
 
-### Farming and Animals
+### [Farming and Animals](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Farming-and-Animals)
 - 4 Cultivators
 - 1 Sprinkler
 - 1 Animal manager
