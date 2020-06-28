@@ -40,7 +40,7 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 - 1 stonecutter + art machine
 - 1 Plasteel production building (balanced)
 
-### Storage Management
+### [Storage Management](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Storage-Management)
 - 4 Storage crate
 - 1 Digital Storage Unit
 - 1 In/Out port Wireless Storage
