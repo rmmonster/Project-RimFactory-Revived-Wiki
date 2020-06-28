@@ -1,63 +1,60 @@
-# Project RimFactory Revived wiki
-![](https://github.com/zymex22/Project-RimFactory-Revived/blob/master/About/Preview.png?raw=true)
 
-![](https://imgur.com/SgqQCgW.png)  
-This version is focused around B18 version wich was awesome version of PRF.
-I included storage againg and left insanity and drones out to match that.
+<img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/About/Preview.png?raw=true" width="100%"/>
 
-Also i have Tried expanding on what mod was and original todo list, combined with some of my own ideas.
-Goal is to get that feel of Automation and Fabrication there was in B18 (inspired by Factorio)
+## Changes
+Project RimFactory Revived is based around its RimWorld B18 counterpart, authored by Spdskatr. Portions of that previous version of the mod, including Drones and Insanity, have deliberately not been included.
 
-I have tried adding some new items in a prf/factorio flavour to expand what can be automated and how it can, and also bring some more progression in this mod.
-I aimed for 3 tiers(+insanity) wich spans from early industrial to late spacer tech.
-And balanced it with input in comments and discord to meet most players expectation to this mod,
-as i dont feel its mine i just wanna maintain it and bring it back to life/game
+The original mod's to do list has been honored as well as new features added. The goal is to get an inspired by Factorio feel of automation and fabrication that was present in the B18 iteration.
 
-I updated what i felt need an update to match 1.1 standards
-and also got a texture overhaul (textures are done by a kind "unknown alien" on my discord)
-And im very gratefull for that, as it leave more room for me to do other part of this and my other mods.
-He do it of free will and when inspired so thats why not every texture are done.
+New features and progression has been added to expand what can be automated. Three tiers(+insanity) spanning from an early industrial to late spacer tech can be found within this mod. Balance, thanks to input from comments and discord, is constantly being tweaked to meet players expectations and provide fun for all.
 
-changelog here: [Steam changelog](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033979700)
+Items, including a texture overhaul, are being updated to meet RimWorld's current development standards. Gratefully, thanks to the help this mod has received, more resources can be allocated to its development.
 
-![](https://imgur.com/mi4OYoT.png)
+[View the changelog on Steam](https://steamcommunity.com/sharedfiles/filedetails/changelog/2033979700)
+
+## Contents
+
 ### Kitchen
 - [2 Auto cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
 - [1 Meat grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
 - [1 Food prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
 - [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
-### Resource gathering
+
+### Resource Gathering
 - [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Miners)
+
 ### Farming and Animals
 - 4 Cultivators
 - 1 Sprinkler
 - 1 Animal manager
 - 3 Animal Harvesters (milk, egg, fur)
-### Automations
-1 Smart Hopper
+
+### Automation
+- 1 Smart Hopper
 - 3 Item Pusher
 - 1 Fueling machine
+
 ### Production
 - [2 Assemblers + 1 Database](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Assemblers-and-Recipe-Database) 
-- 1 Recycler to apperal, weapons & armor
+- 1 Recycler to apparel, weapons & armor
 - 1 stonecutter + art machine
 - 1 Plasteel production building (balanced)
-### Storage management
+
+### Storage Management
 - 4 Storage crate
 - 1 Digital Storage Unit
 - 1 In/Out port Wireless Storage
+
 ### Other
 - 6 new floors
 - 6 Floor sign
 - 3 Lamp
 - 1 Scenario
 
-![](https://imgur.com/vk7inFR.png)  
-This was my Favorite mod in B18 and B19 and there never really came a 1.0.
-Since Spdskatr have giving up on updating it, i thought i would give it a go to update it.
-I got Spdskatrs blessing to continue PRF, so hope i can honor it.
+## Disclaimer  
 
-I hope i can bring back Project RimFactory to a good state in 1.1
-Sadly im not a C# programmer, i can compile assemblies but it stops there.
-So if you are, and wanna help feel free to contact me or make PR on Github with fixes/updates.
-Im getting help from LWM and Nobo sometimes.
+This was a much favored mod in B18 and B19 and active development stopped prior to 1.0. Since Spdskatr has ceased updating this mod, support has been passed on to a new team. Spdskatr has given their blessing to continue development for Project RimFactory.
+
+## Support Us
+
+We are in constant need for developers and artists! If you would like to help, feel free to contact us on Discord or make a PR on Github with fixes/updates.
