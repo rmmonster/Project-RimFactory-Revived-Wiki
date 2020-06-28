@@ -30,14 +30,6 @@ A small steel crate that can store 64 stacks. Items stored in the crate do not d
 
 A giant crate that can store 128 stacks. Items stored in the crate do not deteriorate.
 
-### Industrial Storage Unit Deprecated
-
-|   | Resource Cost | Health | Size |
-| - | ------------- | ------ | ---- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Storage/industrial_storage_unit.png?raw=true" width="96" height="96" /> |  | 300 | 3x3 |
-
-This building will be deprecated in the release. Please use the cargo platform.
-
 ### Digital Storage Unit
 
 |   | Resource Cost | Health | Size |
