@@ -1,24 +1,24 @@
 ### Recipe Database
 
 |   | Size | Health | Power | Research Prerequisites | Resource Cost |
-| - | ---- | ------ | ----- | ---------------------- | ------------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/DISK_HARDWARE4_north.png?raw=true" width="32" height="32" /> | 1x1 | 150HP | 250W | Magnetic Tape | 1x PRF Machine Frame<br />20x Steel<br />1x Component Industrial<br />1x Rim Factory Data Disk |
+| - | ---- | ------ | ------------- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/DISK_HARDWARE4_north.png?raw=true" width="32" height="32" /> | 1x1 | 150HP | 250W | Magnetic Tape | 1x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#machine-frame"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrame.png?raw=true" width="16" /></a><br />20x <a href="https://rimworldwiki.com/wiki/Steel"><img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /></a><br />1x <a href="https://rimworldwiki.com/wiki/Component"><img src="https://rimworldwiki.com/images/4/40/Component.png" width="16" /></a><br />1x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#recipe-data-disk"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/SAL3/datadisk.png?raw=true" width="16" /></a> |
 
 The Portable Recipe Database can import recipes from nearby worktables. Afterwards, when reinstalled near assembler(s), it will upload its recipes to them.<br /><br />Blue cells are import range for the database.<br /><br />Uploaded recipes and bills will be lost if the database is moved or destroyed.<br /><br />I wonder what all these other buttons do...
 
 ### Assembler
 
 |   | Size | Health | Power | Research Prerequisites | Resource Cost |
-| - | ---- | ------ | ----- | ---------------------- | ------------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 250HP | 625W | Universal Autocrafting | 2x PRF Robotic Arm<br />1x PRF Machine Frame<br />120x Steel<br />10x Plasteel |
+| - | ---- | ------ | ------------- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/smart_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 250HP | 625W | Universal Autocrafting | 2x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#robotic-arm"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png?raw=true" width="16" /></a><br />1x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#machine-frame"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrame.png?raw=true" width="16" /></a><br />120x <a href="https://rimworldwiki.com/wiki/Steel"><img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /></a><br />10x <a href="https://rimworldwiki.com/wiki/Plasteel"><img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /></a> |
 
 An automatic assembler controlled by a computer. Despite being called an assembler, it's also capable of simpler procedures such as cutting stone blocks, and refinery work.<br /><br />Downloads recipes from an adjacent recipe database.<br /><br />White cell is input range, Blue cell are db range, Yellow cell is output
 
 ### Adaptive Assembler
 
 |   | Size | Health | Power | Research Prerequisites | Resource Cost |
-| - | ---- | ------ | ----- | ---------------------- | ------------- |
-| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/correcting_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 350HP | 700W | Self Correcting Assemblers | 2x PRF Robotic Arm<br />1x PRF Weak AI Chip<br />1x PRF Machine Frame Large<br />10x Plasteel<br />150x Steel<br />2x Component Industrial |
+| - | ---- | ------ | ------------- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/SAL3/correcting_assembler.png?raw=true" width="96" height="96" /> | 3x3 | 350HP | 700W | Self Correcting Assemblers | 2x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#robotic-arm"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/RoboticArm.png?raw=true" width="16" /></a><br />1x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#weak-ai-chip"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/WeakAICore.png?raw=true" width="16" /></a><br />1x <a href="https://github.com/zymex22/Project-RimFactory-Revived/wiki/Construction-and-Crafting-Resources#adv-machine-frame"><img src="https://github.com/zymex22/Project-RimFactory-Revived/raw/master/Textures/Common/MachineFrameLarge.png?raw=true" width="16" /></a><br />10x <a href="https://rimworldwiki.com/wiki/Plasteel"><img src="https://rimworldwiki.com/images/c/c5/Plasteel.png" width="16" /></a><br />150x <a href="https://rimworldwiki.com/wiki/Steel"><img src="https://rimworldwiki.com/images/c/c9/Steel.png" width="16" /></a><br />2x <a href="https://rimworldwiki.com/wiki/Component"><img src="https://rimworldwiki.com/images/4/40/Component.png" width="16" /></a> |
 
 An automatic assembler controlled by a primitive AI.<br /><br />The simple artificial neural network enables it to learn; to be more precise and efficient at individual recipes. Slowly overwrites currently unused recipe algorithms, as it has limited processing and memory capacity.<br /><br />Downloads recipes from an adjacent recipe database.<br /><br />White cell is input range, Blue cell are db range, Yellow cell is output
 
