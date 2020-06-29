@@ -30,3 +30,27 @@ The empty shell of a medium-sized automation building.
 
 The empty shell of a advanced automation building.
 
+### Robotic Arm
+
+|   | Size | Health | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Common/RoboticArm.png?raw=true" width="32" height="32" /> | 1x1 | 50HP | PRF Eulers Identity | 20x Steel<br />2x Component Industrial |
+
+A robotic arm powered by an electric motor. Used in the construction of some automation buildings.
+
+### Weak AI Chip
+
+|   | Size | Health | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Common/WeakAICore.png?raw=true" width="32" height="32" /> | 1x1 | 50HP |  | 10x Steel<br />4x Component Industrial |
+
+A tensor processing unit containing the most rudimentary AI.
+
+### Drone Module
+
+|   | Size | Health | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Common/DroneModule.png?raw=true" width="32" height="32" /> | 1x1 | 50HP |  | 10x Plasteel<br />30x Steel |
+
+A dormant quadcopter frame capable of low-altitude flight.
+
