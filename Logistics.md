@@ -46,6 +46,38 @@ It is the entrance to the underground conveyor.
 Connect the ground belt conveyor and underground conveyor.
 It is an exit to the underground conveyor.
 
+### Growzone Puller
+
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Belts/Growzone_north.png?raw=true" width="35.2" height="35.2" /> | 1.1x1.1 | 120HP | 60W | AD Vrollers | 150x Steel<br />10x Component Industrial |
+
+(PRF) A Puller That can pull stuff from growzones and place it into a storage or onto a belt.
+
+### Item Puller
+
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Belts/Puller_north.png?raw=true" width="35.2" height="35.2" /> | 1.1x1.1 | 120HP | 60W | AD Vrollers | 150x Steel<br />10x Component Industrial |
+
+(PRF) A Puller That Pull items from A to B more Flexible in in/output than IR Pusher/pullers, might be usefull in some cases
+
+### Item Angle Puller
+
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Belts/PullerL_north.png?raw=true" width="35.2" height="35.2" /> | 1.1x1.1 | 120HP | 60W | AD Vrollers | 150x Steel<br />10x Component Industrial |
+
+(PRF) A 90 degree angled Puller That push items from A to B more Flexible in in/output then IR Pusher/pullers, might be usefull in some cases, can swap left/right after placed.
+
+### Wall Item Puller
+
+|   | Size | Health | Power | Research Prerequisites | Resource Cost |
+| - | ---- | ------ | ----- | ---------------------- | ------------- |
+| <img src="https://github.com/zymex22/Project-RimFactory-Revived/blob/master/Textures/Belts/PullerWall_north.png?raw=true" width="35.2" height="35.2" /> | 1.1x1.1 | 120HP | 60W | AD Vrollers | 150x Steel<br />10x Component Industrial |
+
+(PRF) A Over wall item Puller That push items from A to B more Flexible in in/output then IR Pusher/pullers, might be usefull in some cases.<br />This one are placed over a wall so good for freezers or prisons where you dont want ppl through.
+
 ### I O Port
 
 |   | Size | Health | Power | Research Prerequisites | Resource Cost |
