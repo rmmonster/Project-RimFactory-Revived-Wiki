@@ -7,6 +7,7 @@ so on this page i try to list them all and thank them for their work.
 * [zymex](https://github.com/zymex22)
 * [LWM](https://github.com/lilwhitemouse)
 * [Thornsworth](https://github.com/steague)
+* [Sn1p3rr3c0n](https://github.com/Sn1p3rr3c0n)
 
 ## Artists
 * Shotgunfrenzy
@@ -24,6 +25,7 @@ so on this page i try to list them all and thank them for their work.
 * [Abnerchen](https://github.com/cwc02777)
 * [LWM](https://github.com/lilwhitemouse)
 * [Madara Uchiha](https://github.com/MadaraUchiha)
+* [Sn1p3rr3c0n](https://github.com/Sn1p3rr3c0n)
 
 ## Testers and general help
 * [Thornsworth](https://github.com/steague)
