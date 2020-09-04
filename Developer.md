@@ -42,6 +42,7 @@ If its a preset assembler it needs to have this thingclass:
 where the other 2 type have their own thingclass, but those are not used for other purposes.
 
 For assemblers we have following Comps and mod extensions:
+### Comps for assemblers
 ```xml
   <comps>
       <li Class="ProjectRimFactory.Common.CompProperties_PowerWorkSetting">        <!-- speed settings -->
@@ -63,7 +64,41 @@ For assemblers we have following Comps and mod extensions:
         <instance>(1,1,1,1)</instance>
         <otherInstance>(1,1,1,0.35)</otherInstance>
       </li>
+      <!-- this uses output cell on assemblers -->
+      <li><compClass>ProjectRimFactory.Common.CompOutputAdjustable</compClass></li>
+
   </comps>
+```
+### Mod extensions for assemblers
+```xml
+  <modExtensions>
+      <li Class="ProjectRimFactory.SAL3.Exposables.AssemblerDefModExtension">
+        <importRecipesFrom>              <!-- import bills from a existing workbench, more then 1 can be used -->
+          <li>ElectricStove</li>
+        </importRecipesFrom>
+        <workSpeedBaseFactor>2</workSpeedBaseFactor> Workspeed boost normal = 1
+        <skillLevel>20</skillLevel>      <!-- skill level set all skill to XX if not set skill = 10 -->
+        <workingGraphicData>  Working texture swap
+          <graphicClass>Graphic_Single</graphicClass>
+          <texPath>SAL3/SpacerCookerWorking</texPath>
+          <drawSize>(3,3)</drawSize>
+        </workingGraphicData>
+        <drawStatus>true</drawStatus>    <!-- Show working/idle status -->
+        <doEffect>true</doEffect>        <!-- Sound and visual effect activate -->
+        <overrideRecipeEffecter>         <!-- List of Recipe and Effecter to overwrite. -->
 
+          <RecipeDef.defName Effecter="EffecterDef.defName" Sound="SoundDef.defName" />    <!-- Override a specific recipe effect and sound -->
+          RecipeDef - see RimWorld\Data\Core\Defs\RecipeDefs\Recipes_*.xml                 <!-- find recipeDef here -->
+          EffecterDef - see RimWorld\Data\Core\Defs\Effects\Effecter_*.xml                 <!-- find effectDef here -->
+          SoundDef - see RimWorld\Data\Core\Defs\SoundDefs\*_Sustainers_*.xml              <!-- find soundDef here -->
 
+        <CookMealSimple Effecter="Repair" />                                               <!-- example  -->
+        <CookMealSimpleBulk Effecter="ButcherFlesh" Sound="Recipe_ButcherCorpseFlesh" />   <!-- example  -->
+        </overrideRecipeEffecter>
+
+        <defaultEffecter>Drill</defaultEffecter>        
+       <!-- Effect that is used when RecipeDef.effectWorking and RecipeDef.soundWorking does not exist or is not defined in overrideRecipeEffecter.  -->
+        <defaultSound></defaultSound>
+      </li>
+  </modExtensions> 
 ```
