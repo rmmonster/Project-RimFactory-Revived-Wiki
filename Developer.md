@@ -64,9 +64,28 @@ For assemblers we have following Comps and mod extensions:
         <instance>(1,1,1,1)</instance>
         <otherInstance>(1,1,1,0.35)</otherInstance>
       </li>
-      <!-- this uses output cell on assemblers -->
+   <!-- this uses output cell on assemblers -->
       <li><compClass>ProjectRimFactory.Common.CompOutputAdjustable</compClass></li>
 
+   <!-- Assemblers can use BOTH or EITHER fueled and power comp to power it. -->
+   <!-- If both are used it will need both power and fuel to run, if power used only power needed... -->
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>20.0</fuelConsumptionRate> <!-- Rate it will burn through fuel -->
+        <fuelCapacity>50.0</fuelCapacity> <!-- This set how much storage it has before need to refuel -->
+        <fuelFilter>
+          <thingDefs> <!-- Here you set Fuel type it need, can be any DEF -->
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed> <!-- Not sure if this work or not? -->
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle> <!-- Toggle button for refuel -->
+      </li>
+   <!-- This is BASE value only if power setting is used this will be base and then boost set rest -->
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <shortCircuitInRain>false</shortCircuitInRain>
+        <basePowerConsumption>200</basePowerConsumption> <!-- Base power use -->
+      </li>
   </comps>
 ```
 ### Mod extensions for assemblers
@@ -77,7 +96,8 @@ For assemblers we have following Comps and mod extensions:
           <li>ElectricStove</li>
         </importRecipesFrom>
         <workSpeedBaseFactor>2</workSpeedBaseFactor> <!--  Workspeed boost normal = 1 -->
-        <skillLevel>20</skillLevel>      <!-- skill level set all skill to XX if not set skill = 10 -->
+        <skillLevel>20</skillLevel>       <!-- skill level set all skill to XX if not set skill = 10 -->
+        <artSkillLevel>10</artSkillLevel> <!-- Art skill level are set separate -->
         <workingGraphicData>  <!-- Working texture swap -->
           <graphicClass>Graphic_Single</graphicClass>
           <texPath>SAL3/SpacerCookerWorking</texPath>
@@ -86,7 +106,7 @@ For assemblers we have following Comps and mod extensions:
         <drawStatus>true</drawStatus>    <!-- Show working/idle status -->
         <doEffect>true</doEffect>        <!-- Sound and visual effect activate -->
         <overrideRecipeEffecter>         <!-- List of Recipe and Effecter to overwrite. -->
-
+      <!-- Below can be leaved out and is most for an example on how to overwrite original effect attached to that operation -->
           <RecipeDef.defName Effecter="EffecterDef.defName" Sound="SoundDef.defName" />    <!-- Override a specific recipe effect and sound -->
           RecipeDef - see RimWorld\Data\Core\Defs\RecipeDefs\Recipes_*.xml                 <!-- find recipeDef here -->
           EffecterDef - see RimWorld\Data\Core\Defs\Effects\Effecter_*.xml                 <!-- find effectDef here -->
@@ -101,4 +121,15 @@ For assemblers we have following Comps and mod extensions:
         <defaultSound></defaultSound>
       </li>
   </modExtensions> 
+```
+Other usefull lines for Assemblers thats not a comp or extension
+```xml
+    <recipes> <!-- Adding single/specific recipes to a assembler -->
+      <li>PRF_Recycle_Weapon</li>
+      <li>PRF_Recycle_Apparel</li>
+    </recipes>
+    <inspectorTabs> <!-- used to set bills on Assemblers -->
+      <li>ProjectRimFactory.SAL3.UI.ITab_SAL3Bills</li>
+    </inspectorTabs>
+   <tickerType>Normal</tickerType> <!-- --> assemblers uses Normal Ticker type
 ```
