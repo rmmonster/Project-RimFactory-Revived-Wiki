@@ -8,7 +8,8 @@ We will list usefull info, comps and such in here, usefull when updating or maki
 Used to make Help button, it need a line in Language file called: `<DEFNAME_HelpText>Help text</DEFNAME_HelpText>`
 
 PRF lamps switch color comp.
-```xml      <li Class="ProjectRimFactory.Misc.CompProperties_Glower_ColorPick">
+```xml      
+<li Class="ProjectRimFactory.Misc.CompProperties_Glower_ColorPick">
         <glowRadius>20</glowRadius> <!-- Glow radius like vanilla glow comp -->
         <glowColor>(252,199,139,0)</glowColor> <!-- Color when placed -->
         <key>PRF_Warm_White</key> <!-- Link to language file for translation use -->
