@@ -33,11 +33,11 @@ Used to make Help button, it need a line in Language file called: `<DEFNAME_Help
 ```
 
 **Second Layer Comp**
-This is borrowed From KV/Vendan from RimFridge mod and integrated in prf for use in our xml toolkit
+This is borrowed From KV/Vendan from RimFridge mod and integrated in prf for use in our xml toolkit.
 ```xml
-<li Class="ProjectRimFactory.Common.CompProperties_SecondLayer"> <!-- This is used when multiple textures wanted to be stacked -->
+<li Class="ProjectRimFactory.Common.CompProperties_SecondLayer"> <!-- This is used when multiple textures want to be stacked -->
   <graphicData>
-    <texPath>Belts/Growzone_south</texPath>
+    <texPath>Belts/Growzone_south</texPath> <!-- Path to second layer texture -->
     <graphicClass>Graphic_Single</graphicClass> <!-- Need to be set same as original type -->
     <shaderType>Transparent</shaderType> <!-- for glass like use Transparent -->
     <drawSize>(2,2)</drawSize>
