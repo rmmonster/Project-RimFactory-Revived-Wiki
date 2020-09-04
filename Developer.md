@@ -25,4 +25,5 @@ PRF lamps switch color comp.
         <prerequisites> <!-- Required researche to unlock "button" -->
           <li>ColoredLights</li>
         </prerequisites>
-      </li>```
+      </li>
+```
