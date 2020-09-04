@@ -36,3 +36,34 @@ Used to make Help button, it need a line in Language file called: `<DEFNAME_Help
 ## Assembler specific stuff
 Assemblers in PRF are a general description linked to both smart assemblers and adaptive.
 But also any preset assembler with locked recipes like Simple cooker
+
+If its a preset assembler it needs to have this thingclass:
+`<thingClass>ProjectRimFactory.SAL3.Things.Assemblers.Building_SimpleAssembler</thingClass>`
+where the other 2 type have their own thingclass, but those are not used for other purposes.
+
+For assemblers we have following Comps and mod extensions:
+```xml
+  <comps>
+      <li Class="ProjectRimFactory.Common.CompProperties_PowerWorkSetting">        <!-- speed settings -->
+        <speedSetting>true</speedSetting> <!-- use speed power boost or not? -->
+        <minPowerForSpeed>0</minPowerForSpeed> <!-- power use for min setting -->
+        <minSpeedFactor>1</minSpeedFactor> <!-- Slowest speed setting -->
+        <maxPowerForSpeed>3000</maxPowerForSpeed> <!-- max power use -->
+        <maxSpeedFactor>2</maxSpeedFactor> <!-- Max speed setting -->
+        range settings
+        <rangeSetting>true</rangeSetting> <!-- use range for input cells -->
+        <minPowerForRange>0</minPowerForRange> <!-- power for minimum -->
+        <minRange>1</minRange> <!-- Range on lowest setting (Radius) -->
+        <maxPowerForRange>1000</maxPowerForRange> <!-- power for max -->
+        <maxRange>3</maxRange> <!-- max range -->
+        <rangeType>ProjectRimFactory.Common.RectRange</rangeType> <!-- not sure? think its shape of input cell -->
+        <!-- range color settings, if not used just prf standards -->
+        <blueprintMin>(1,1,1,1)</blueprintMin>
+        <blueprintMax>(0.5,0.5,0.5,0.6)</blueprintMax>
+        <instance>(1,1,1,1)</instance>
+        <otherInstance>(1,1,1,0.35)</otherInstance>
+      </li>
+  </comps>
+
+
+```
