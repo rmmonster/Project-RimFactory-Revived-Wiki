@@ -4,12 +4,13 @@ This page is for PRF crew and other modders to see behind the scene stuff.
 We will list usefull info, comps and such in here, usefull when updating or making patches for PRF.
 
 ## Comps used in PRF:
+**Help Tab**
 ```xml
 <li><compClass>ProjectRimFactory.Common.CompPRFHelp</compClass></li>
 ```
 Used to make Help button, it need a line in Language file called: `<DEFNAME_HelpText>Help text</DEFNAME_HelpText>`
 
-PRF lamps switch color comp.
+**PRF lamps switch color comp.**
 ```xml      
       <li Class="ProjectRimFactory.Misc.CompProperties_Glower_ColorPick">
         <glowRadius>20</glowRadius> <!-- Glow radius like vanilla glow comp -->
