@@ -76,9 +76,9 @@ For assemblers we have following Comps and mod extensions:
         <importRecipesFrom>              <!-- import bills from a existing workbench, more then 1 can be used -->
           <li>ElectricStove</li>
         </importRecipesFrom>
-        <workSpeedBaseFactor>2</workSpeedBaseFactor> Workspeed boost normal = 1
+        <workSpeedBaseFactor>2</workSpeedBaseFactor> <!--  Workspeed boost normal = 1 -->
         <skillLevel>20</skillLevel>      <!-- skill level set all skill to XX if not set skill = 10 -->
-        <workingGraphicData>  Working texture swap
+        <workingGraphicData>  <!-- Working texture swap -->
           <graphicClass>Graphic_Single</graphicClass>
           <texPath>SAL3/SpacerCookerWorking</texPath>
           <drawSize>(3,3)</drawSize>
