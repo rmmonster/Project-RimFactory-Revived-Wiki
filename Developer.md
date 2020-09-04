@@ -121,15 +121,13 @@ For assemblers we have following Comps and mod extensions:
         <doEffect>true</doEffect>        <!-- Sound and visual effect activate -->
         <overrideRecipeEffecter>         <!-- List of Recipe and Effecter to overwrite. -->
       <!-- Below can be leaved out and is most for an example on how to overwrite original effect attached to that operation -->
-          <RecipeDef.defName Effecter="EffecterDef.defName" Sound="SoundDef.defName" />    <!-- Override a specific recipe effect and sound -->
-          RecipeDef - see RimWorld\Data\Core\Defs\RecipeDefs\Recipes_*.xml                 <!-- find recipeDef here -->
-          EffecterDef - see RimWorld\Data\Core\Defs\Effects\Effecter_*.xml                 <!-- find effectDef here -->
-          SoundDef - see RimWorld\Data\Core\Defs\SoundDefs\*_Sustainers_*.xml              <!-- find soundDef here -->
-
+         <RecipeDef.defName Effecter="EffecterDef.defName" Sound="SoundDef.defName" />    <!-- Override a specific recipe effect and sound -->
+          <!-- RecipeDef - see RimWorld\Data\Core\Defs\RecipeDefs\Recipes_*.xml -->                 <!-- find recipeDef here -->
+          <!-- EffecterDef - see RimWorld\Data\Core\Defs\Effects\Effecter_*.xml -->                 <!-- find effectDef here -->
+          <!-- SoundDef - see RimWorld\Data\Core\Defs\SoundDefs\*_Sustainers_*.xml -->              <!-- find soundDef here -->
         <CookMealSimple Effecter="Repair" />                                               <!-- example  -->
         <CookMealSimpleBulk Effecter="ButcherFlesh" Sound="Recipe_ButcherCorpseFlesh" />   <!-- example  -->
         </overrideRecipeEffecter>
-
         <defaultEffecter>Drill</defaultEffecter>        
        <!-- Effect that is used when RecipeDef.effectWorking and RecipeDef.soundWorking does not exist or is not defined in overrideRecipeEffecter.  -->
         <defaultSound></defaultSound>
