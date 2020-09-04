@@ -31,3 +31,8 @@ Used to make Help button, it need a line in Language file called: `<DEFNAME_Help
         </prerequisites>
       </li>
 ```
+
+
+## Assembler specific stuff
+Assemblers in PRF are a general description linked to both smart assemblers and adaptive.
+But also any preset assembler with locked recipes like Simple cooker
