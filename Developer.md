@@ -4,7 +4,7 @@ This page is for PRF crew and other modders to see behind the scene stuff.
 We will list usefull info, comps and such in here, usefull when updating or making patches for PRF.
 
 # Comps used in PRF:
-## Theese are general and can be used on all type of def _(not thingclass specifics)_
+### Theese are general and can be used on all type of def _(not thingclass specifics)_
 **Help Tab**
 ```xml
 <li><compClass>ProjectRimFactory.Common.CompPRFHelp</compClass></li>
