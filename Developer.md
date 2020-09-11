@@ -71,7 +71,7 @@ For assemblers we have following Comps and mod extensions:
         <minRange>1</minRange> <!-- Range on lowest setting (Radius) -->
         <maxPowerForRange>1000</maxPowerForRange> <!-- power for max -->
         <maxRange>3</maxRange> <!-- max range -->
-        <rangeType>ProjectRimFactory.Common.RectRange</rangeType> <!-- not sure? think its shape of input cell -->
+        <rangeType>ProjectRimFactory.Common.RectRange</rangeType> <!-- can be: RectRange, FacingRectRange, CircleRange -->
         <!-- range color settings, if not used just prf standards -->
         <blueprintMin>(1,1,1,1)</blueprintMin>
         <blueprintMax>(0.5,0.5,0.5,0.6)</blueprintMax>
