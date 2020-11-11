@@ -39,6 +39,7 @@ so on this page i try to list them all and thank them for their work.
 * Russian: Natsu_Zirok
 * Chinese Simplified: 十里小飞
 * Chinese Traditional: AbnerChen
+* Brazilian Portuguese: Lucas559-noob
 
 ### Resources
 * Freepik
