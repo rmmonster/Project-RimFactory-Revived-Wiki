@@ -16,6 +16,7 @@ so on this page i try to list them all and thank them for their work.
 * Scythe
 * totobrother
 * "unknown alien"
+* Argon
 * [spdskatr](https://github.com/spdskatr)
 * [zymex](https://github.com/zymex22)
 
@@ -30,6 +31,9 @@ so on this page i try to list them all and thank them for their work.
 ## Testers and general help
 * [Thornsworth](https://github.com/steague)
 * Malkav
+* AerosAtar
+* Daemon976
+* Extrien
 
 ## Translaters
 * Russian: Natsu_Zirok
