@@ -179,3 +179,39 @@ The script prioritizes `billBonusYields` over `bonusYields`.
 if you get nothing from `billBonusYields` you have a chance for `bonusYields`.
 if you get something from `billBonusYields` you have **no** chance for `bonusYields`.
 Works on S.A.L, Assemblers, Miners and Tier3 miner type
+
+
+### Research for unlock skill info, currently working for prf drones
+New XML Settings in **ModExtension_Skills**:
+`SkillUsage` : 
+```csharp
+public enum enum_ModExtension_SkillsskillUsage
+{
+	ThisOverrides = 0,
+	ReserchIsCapping = 1,
+	ThisIsCapping = 2,
+	ReserchOverrides = 3
+}
+```
+**ThisOverrides = 0:**
+The Level as defined in `skills` is final
+
+**ReserchIsCapping = 1**
+The Level as defined in `skills` is capped by the Research
+
+**ThisIsCapping = 2**
+The Level is set via Research is capped by the Level Defined in `skills`
+
+**ReserchOverrides = 3**
+The Level is set via Research is final
+
+---
+**Sample of the Setting in use**
+```xml
+      <li Class="ProjectRimFactory.Common.ModExtension_Skills">
+        <SkillUsage>ThisOverrides</SkillUsage>
+        <BaseSkill>20</BaseSkill>
+        <skills>
+        </skills>
+      </li>
+```
