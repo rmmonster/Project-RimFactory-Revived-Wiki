@@ -102,6 +102,7 @@ For assemblers we have following Comps and mod extensions:
       </li>
   </comps>
 ```
+
 ### Mod extensions for assemblers
 ```xml
   <modExtensions>
@@ -145,3 +146,36 @@ Other usefull lines for Assemblers thats not a comp or extension
     </inspectorTabs>
    <tickerType>Normal</tickerType> <!-- --> assemblers uses Normal Ticker type
 ```
+
+### BonusYield modextension (for random extras)
+`ModExtension_BonusYield` now has a bill depended option.
+The old way:
+```xml
+<bonusYields Chance="0.25">
+   <SculptureLarge Weight="0.5" Count="1" Quality="6" MaterialDef="Gold" />
+</bonusYields>
+```
+is still available. it can be used when something should happen independent of the bill.
+
+---
+The new way:
+```xml
+<billBonusYields>
+   <li>
+      <key>Make_SculptureSmall</key>
+      <value Chance="1">
+         <SculptureLarge Weight="0.5" Count="1" Quality="6" MaterialDef="Gold" />
+      </value>
+   </li>
+</billBonusYields>
+```
+`<key></key>` holds the RecipeDef name
+`Chance=""` is located in the value element
+This means that different RecipeDefs can have different chances for different additional things
+`<value Chance="1"></value>` Holds the standard Bonus Yield Line
+
+_General note:_ 
+The script prioritizes `billBonusYields` over `bonusYields`.
+if you get nothing from `billBonusYields` you have a chance for `bonusYields`.
+if you get something from `billBonusYields` you have **no** chance for `bonusYields`.
+Works on S.A.L, Assemblers, Miners and Tier3 miner type
