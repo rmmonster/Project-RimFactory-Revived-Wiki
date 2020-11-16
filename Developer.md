@@ -180,7 +180,7 @@ if you get nothing from `billBonusYields` you have a chance for `bonusYields`.
 if you get something from `billBonusYields` you have **no** chance for `bonusYields`.
 Works on S.A.L, Assemblers, Miners and Tier3 miner type
 
-
+\n\n
 ### Research for unlock skill info, currently working for prf drones
 New XML Settings in **ModExtension_Skills**:
 `SkillUsage` : 
