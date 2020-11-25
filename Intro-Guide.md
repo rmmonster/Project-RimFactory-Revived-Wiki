@@ -1,0 +1,16 @@
+# Welcome To Project RimFactory
+
+This mod is heavily inspired by games like Factorio, satisfactory and more.
+It's a continueation of old PRF mod, Nr automachinetool, and industrial rollers.
+
+### Addons
+It has some sub addon mods that you may try out also.
+**Project RimFactory - Drones** (drone stations)
+**Project RimFactory - Insanity** (equivalent exchange, mad scientist, alchemy)
+**Project RimFactory - Materials** (materials mod flavoured in Factory game style)
+**Project RimFactory - Extras** (some odd ones that dont fit in any of above ones.
+
+## Introduction
+Project RimFactory or PRF for short from now on, is all about automation and free up your pawns to do other things like sleep, raid, defend, or just chilling out.
+
+Basics are all machines are automatic and you set it up with a input and a output, you can then use different way to automate that to with belts, I/O ports, shelfs or just simple stockpiles.
