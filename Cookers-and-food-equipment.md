@@ -1,7 +1,7 @@
 ### Ranges
 
 * White cells mark the input range.
-* Blue cells mark the [Recipe Database](Assemblers-and-Recipe-Database#Recipe Database) range.
+* Blue cells mark the [Recipe Database](./Assemblers-and-Recipe-Database#Recipe Database) range.
 
 ### Industrial Cooker
 
@@ -16,7 +16,7 @@ Never ruin a meal again with your one-stop solution to satisfy all your colony's
 * 100% speed
 * 5 cleanliness
 
-#### Does not work with the [Recipe Database](Assemblers-and-Recipe-Database#Recipe Database)
+#### Does not work with the [Recipe Database](./Assemblers-and-Recipe-Database#Recipe Database)
 
 ### Spacer Cooker
 
