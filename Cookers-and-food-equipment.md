@@ -15,7 +15,6 @@ Never ruin a meal again with your one-stop solution to satisfy all your colony's
 
 * 100% speed
 * 5 cleanliness
-* level 10 cooking
 
 ### Spacer Cooker
 
@@ -29,7 +28,6 @@ Never ruin a meal again with your one-stop solution to satisfy all your colony's
 
 * 200% speed
 * 20 cleanliness
-* level 20 cooking
 
 ### Meat Grinder
 
