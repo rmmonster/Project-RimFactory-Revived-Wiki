@@ -1,7 +1,7 @@
 ### Ranges
 
 * White cells mark the input range.
-* Blue cells mark the [Recipe Database](wiki/Assemblers-and-Recipe-Database#Recipe\ Database) range.
+* Blue cells mark the [Recipe Database](wiki/Assemblers-and-Recipe-Database#Recipe Database) range.
 
 ### Industrial Cooker
 
