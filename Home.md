@@ -6,7 +6,7 @@ Project RimFactory Revived is based around its RimWorld B18 counterpart, authore
 
 The original mod's to do list has been honored as well as new features added. The goal is to get an inspired by Factorio feel of automation and fabrication that was present in the B18 iteration.
 
-New features and progression has been added to expand what can be automated. Three tiers(+insanity) spanning from an early industrial to late spacer tech can be found within this mod. Balance, thanks to input from comments and discord, is constantly being tweaked to meet players expectations and provide fun for all.
+New features and progression has been added to expand what can be automated. Three tiers (+insanity) spanning from an early industrial to late spacer tech can be found within this mod. Balance, thanks to input from comments and discord, is constantly being tweaked to meet players expectations and provide fun for all.
 
 Items, including a texture overhaul, are being updated to meet RimWorld's current development standards. Gratefully, thanks to the help this mod has received, more resources can be allocated to its development.
 
