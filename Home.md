@@ -14,38 +14,45 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 
 ## Contents
 
-### Kitchen
-- [2 Auto cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#tier-1-industrial-cooker)
-- [1 Food prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#industrial-food-processor)
-- [1 Meat grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#meat-grinder)
-- [1 Auto Fermenting barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#fermenting-tank)
+### [Kitchen](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment)
+
+- [2 Auto Cooker](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#tier-1-industrial-cooker)
+- [1 Auto Fermenting Barrel](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#fermenting-tank)
+- [1 Food Prepper](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#industrial-food-processor)
+- [1 Meat Grinder](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Cookers-and-food-equipment#meat-grinder)
 
 ### Resource Gathering
+
 - [3 Auto Miners](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Industry)
 
 ### [Farming and Animals](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Farming-and-Animals)
+
+- 3 Animal Harvesters (milk, egg, fur)
+- 1 Animal manager
 - 4 Cultivators
 - 1 Sprinkler
-- 1 Animal manager
-- 3 Animal Harvesters (milk, egg, fur)
 
 ### Automation
-- 1 Smart Hopper
-- 3 Item Pusher
+
 - 1 Fueling machine
+- 3 Item Pusher
+- 1 Smart Hopper
 
 ### Production
+
 - [2 Assemblers + 1 Database](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Assemblers-and-Recipe-Database) 
 - 1 Recycler to apparel, weapons & armor
 - 1 stonecutter + art machine
 - 1 Plasteel production building (balanced)
 
 ### [Storage Management](https://github.com/zymex22/Project-RimFactory-Revived/wiki/Storage-Management)
+
 - 4 Storage crate
 - 1 Digital Storage Unit
 - 1 In/Out port Wireless Storage
 
 ### Other
+
 - 6 new floors
 - 6 Floor sign
 - 3 Lamp
@@ -53,7 +60,9 @@ Items, including a texture overhaul, are being updated to meet RimWorld's curren
 
 ## Disclaimer  
 
-This was a much favored mod in B18 and B19 and active development stopped prior to 1.0. Since Spdskatr has ceased updating this mod, support has been passed on to a new team. Spdskatr has given their blessing to continue development for Project RimFactory.
+This was a much favored mod in B18 and B19 and active development stopped prior to 1.0.
+Since Spdskatr has ceased updating this mod, support has been passed on to a new team.
+Spdskatr has given their blessing to continue development for Project RimFactory.
 
 ## Support Us
 
