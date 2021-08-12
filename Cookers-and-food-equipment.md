@@ -16,6 +16,8 @@ Never ruin a meal again with your one-stop solution to satisfy all your colony's
 * 100% speed
 * 5 cleanliness
 
+#### Does not work with the [Recipe Database](Assemblers-and-Recipe-Database#Recipe Database)
+
 ### Spacer Cooker
 
 |   | Size | Health | Power | Skill Level | Research Prerequisites | Resource Cost |
