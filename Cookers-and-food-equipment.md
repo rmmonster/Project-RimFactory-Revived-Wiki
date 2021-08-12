@@ -1,7 +1,7 @@
 ### Ranges
 
-* White cell is input range
-* Blue cell are db range.
+* White cells mark the input range.
+* Blue cells mark the database range.
 
 ### Industrial Cooker
 
