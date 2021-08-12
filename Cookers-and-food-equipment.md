@@ -1,3 +1,8 @@
+### Ranges
+
+* White cell is input range
+* Blue cell are db range.
+
 ### Industrial Cooker
 
 |   | Size | Health | Power | Skill Level | Research Prerequisites | Resource Cost |
@@ -11,10 +16,6 @@ Never ruin a meal again with your one-stop solution to satisfy all your colony's
 * 100% speed
 * 5 cleanliness
 * level 10 cooking
-
-* Ranges
-  * White cell is input range
-  * Blue cell are db range.
 
 ### Spacer Cooker
 
